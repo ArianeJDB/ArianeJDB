@@ -1,4 +1,5 @@
 # 🐣 Hola, soy Ari 🐙
+[English version](https://github.com/ArianeJDB/ArianeJDB/blob/main/READMEen.md)
 
 Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y ahora programadora junior👩🏻‍💻 en Madrid. Mamá de Sebas 👩‍👦 y tuitera.
 
