@@ -19,7 +19,7 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=plastic&logo=Jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=plastic&logo=Cypress&logoColor=white)
 
-## Mis charlas 🗣️💬 
+## Charlas 🗣️💬 
 * Unit testing: from 2+2 to fetch - Women Techmakers Barcelona - English:  Enlace pronto!
 * [¿Quién soy yo para dar una charla? - Women4TT](https://www.youtube.com/watch?v=mWiLhWtSYTI) A partir de 4:09:00
 * [Junior en la adolestreinta - Con Macarena Jimenez - TotoConf](https://www.youtube.com/watch?v=cldd97CUn4g)
@@ -27,24 +27,23 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
 * Programar me ayuda en la depresión - XantarDev: Enlace pronto!
 * [Del 2+2 al fetch - AlmeríaJS](https://www.youtube.com/watch?v=szu5YDOtJ1M)
 
-## Mesa redonda/panel 🧑🏻👨🏼‍🦳👨🏿
-* [Remote Working - Women Who Code Dublin & Frontend Foxes Spain - English](https://www.youtube.com/watch?v=cf43XVj3tBY&feature=youtu.be)
-* Front, frameworks y más allá - Codemotion online tech conference: Enlace pronto!
-* [Un framework para dominarlos a todos - Codemotion Madrid](https://www.youtube.com/watch?v=WIoN2x3_tp4)
-
-
-## Entrevistas/podcast/colaboraciones 🎙️
-* [HacktoberFest 2020: mi primera contribución al open source! - Codely](https://www.youtube.com/watch?v=BFp6C4lnOuM&feature=youtu.be)
-* [De madre soltera en paro a experta programadora - El País](https://elpais.com/sociedad/2020/09/14/pienso_luego_actuo/1600069958_945079.html)
-* [CodeHouse academy](https://www.youtube.com/watch?v=GdmViiTMA3w)
-* [De Enfermera a Front End Developer - Hola Mundo Podcast](http://holamundopodcast.com/podcast/de-enfermera-a-front-end-developer/)
-
 ## Artículos 📝
 * [Ponernos en valor / Los períodos de prueba son bidireccionales](https://arijdb.medium.com/ponernos-en-valor-los-per%C3%ADodos-de-prueba-son-bidireccionales-8230c1fc3523)
 * [Conseguir trabajo: dónde y cómo](https://arijdb.medium.com/conseguir-trabajo-d%C3%B3nde-y-c%C3%B3mo-5fcdb039f47e)
 * [Procesos de selección: agobio, estrés y aprendizaje](https://arijdb.medium.com/procesos-de-selecci%C3%B3n-agobio-estr%C3%A9s-y-aprendizaje-2c761bf36207)
 * [¿Quién soy yo para dar una charla?](https://arijdb.medium.com/qui%C3%A9n-soy-yo-para-dar-una-charla-4ac9bb7659f9)
 * [Cómo convertise en programadora después de los 30 - Revista Qmode](https://qmode.es/como-convertirse-en-programadora-despues-de-los-30)
+
+## Mesa redonda/panel 🧑🏻👨🏼‍🦳👨🏿
+* [Remote Working - Women Who Code Dublin & Frontend Foxes Spain - English](https://www.youtube.com/watch?v=cf43XVj3tBY&feature=youtu.be)
+* Front, frameworks y más allá - Codemotion online tech conference: Enlace pronto!
+* [Un framework para dominarlos a todos - Codemotion Madrid](https://www.youtube.com/watch?v=WIoN2x3_tp4)
+
+## Entrevistas/podcast/colaboraciones 🎙️
+* [HacktoberFest 2020: mi primera contribución al open source! - Codely](https://www.youtube.com/watch?v=BFp6C4lnOuM&feature=youtu.be)
+* [De madre soltera en paro a experta programadora - El País](https://elpais.com/sociedad/2020/09/14/pienso_luego_actuo/1600069958_945079.html)
+* [CodeHouse academy](https://www.youtube.com/watch?v=GdmViiTMA3w)
+* [De Enfermera a Front End Developer - Hola Mundo Podcast](http://holamundopodcast.com/podcast/de-enfermera-a-front-end-developer/)
 
 ## Me puedes encontrar en
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Ari_Reinventada)](https://twitter.com/Ari_Reinventada)
