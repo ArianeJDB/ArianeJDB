@@ -32,7 +32,7 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
 * [Un framework para dominarlos a todos - Codemotion Madrid](https://www.youtube.com/watch?v=WIoN2x3_tp4)
 
 
-## Entrevistas/podcast/Colaboraciones 🎙️
+## Entrevistas/podcast/colaboraciones 🎙️
 * [HacktoberFest 2020: mi primera contribución al open source! - Codely](https://www.youtube.com/watch?v=BFp6C4lnOuM&feature=youtu.be)
 * [De madre soltera en paro a experta programadora - El País](https://elpais.com/sociedad/2020/09/14/pienso_luego_actuo/1600069958_945079.html)
 * [CodeHouse academy](https://www.youtube.com/watch?v=GdmViiTMA3w)
