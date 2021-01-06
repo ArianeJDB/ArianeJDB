@@ -45,7 +45,7 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
 * [¿Quién soy yo para dar una charla?](https://arijdb.medium.com/qui%C3%A9n-soy-yo-para-dar-una-charla-4ac9bb7659f9)
 * [Cómo convertise en programadora después de los 30 - Revista Qmode](https://qmode.es/como-convertirse-en-programadora-despues-de-los-30)
 
-## Me puedes encontrar en:
+## Me puedes encontrar en
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Ari_Reinventada)](https://twitter.com/Ari_Reinventada)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=plastic&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ari_reinventada)](https://www.twitch.tv/ari_reinventada)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=plastic&logo=Medium&logoColor=white&link=https://arijdb.medium.com/)](https://arijdb.medium.com/)
