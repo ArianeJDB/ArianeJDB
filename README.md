@@ -21,11 +21,7 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=plastic&logo=Jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=plastic&logo=Cypress&logoColor=white)
 
-## Charlas 🗣️💬 
-* Unit testing: from 2+2 to fetch - Women Techmakers Barcelona - English:  Enlace pronto!
-* [¿Quién soy yo para dar una charla? - Women4TT](https://www.youtube.com/watch?v=mWiLhWtSYTI) A partir de 4:09:00
-  https://user-images.githubusercontent.com/45037868/103943388-499a5d80-5132-11eb-8f74-5c3af251836b.jpeg
-  
+## Charlas 🗣️💬  
 <table>
    <tr>
      <td align="center"><img src="https://user-images.githubusercontent.com/45037868/103943388-499a5d80-5132-11eb-8f74-5c3af251836b.jpeg" width="150px" alt="Unit testing: from 2+2 to fetch - Women Techmakers Barcelona"/><br /><sub><b>Unit testing: from 2+2 to fetch - WTM Barcelona (Enlace pronto)</b></sub></a><br /></td>
@@ -38,24 +34,6 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
     <td align="center"><a href="https://www.youtube.com/watch?v=szu5YDOtJ1M&t=4s"><img src="https://img.youtube.com/vi/szu5YDOtJ1M/mqdefault.jpg" width="150px" alt="Del 2+2 al fetch - AlmeríaJS"/><br /><sub><b>Del 2+2 al fetch - AlmeríaJS</b></sub></a><br /></td>
   </tr>
 </table>
-
-<!-- <figure style="width:200px">   
-  <a href='https://youtu.be/U7NTuOpBiAk?t=2435' target='_blank'>
-    <img width='200px' src="https://img.youtube.com/vi/U7NTuOpBiAk/mqdefault.jpg" alt='Lazy (and tricky) loading en Angular - OSW'>
-  </a>
-  <figcaption>Lazy (and tricky) loading en Angular - OSW</figcaption>
-</figure>
-<figure style="width:200px">   
-  <a href='https://youtu.be/dPpk4K_EKSE?t=6450' target='_blank'>
-    <img width='200px' src="https://img.youtube.com/vi/dPpk4K_EKSE/mqdefault.jpg" alt='Programar me ayuda en la depresión - XantarDev'>
-  </a>
-  <figcaption>Programar me ayuda en la depresión - XantarDev</figcaption>
-</figure>
-<figure style="width:200px">   
-  <a href='https://www.youtube.com/watch?v=szu5YDOtJ1M&t=4s' target='_blank'>
-    <img width='200px' src='https://img.youtube.com/vi/szu5YDOtJ1M/mqdefault.jpg' alt='Del 2+2 al fetch - AlmeríaJS' />
-  </a>
-</figure> -->
 
 ## Artículos 📝
 * [Ponernos en valor / Los períodos de prueba son bidireccionales](https://arijdb.medium.com/ponernos-en-valor-los-per%C3%ADodos-de-prueba-son-bidireccionales-8230c1fc3523)
