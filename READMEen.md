@@ -24,15 +24,159 @@ Everything I share is in Spanish, but I have two talks in English!
 
 ## Talks 🗣️💬 
 <table>
-   <tr>
-     <td align="center"><img src="https://user-images.githubusercontent.com/45037868/103943388-499a5d80-5132-11eb-8f74-5c3af251836b.jpeg" width="150px" alt="Unit testing: from 2+2 to fetch - Women Techmakers Barcelona"/><br /><sub><b>Unit testing: from 2+2 to fetch - WTM Barcelona (Link soon!)</b></sub></a><br /></td>
-    <td align="center"><a href="https://youtu.be/mWiLhWtSYTI?t=14937"><img src="https://user-images.githubusercontent.com/45037868/103942565-e65bfb80-5130-11eb-98b5-888e2db473b2.png" width="150px" alt="¿Quién soy yo para dar una charla? - Women4TT"/><br /><sub><b>¿Quién soy yo para dar una charla? - Women4TT</b></sub></a><br /></td>
-     <td align="center"><a href="https://www.youtube.com/watch?v=cldd97CUn4g"><img src="https://user-images.githubusercontent.com/45037868/103942115-2bcbf900-5130-11eb-84dc-db33267b6acd.png" width="150px" alt="Junior en la adolestreinta - Con Macarena Jimenez - TotoConf"/><br /><sub><b>Junior en la adolestreinta - Con Macarena Jimenez - TotoConf</b></sub></a><br /></td>
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/45037868/103943388-499a5d80-5132-11eb-8f74-5c3af251836b.jpeg" width="150px" alt="Unit testing: from 2+2 to fetch - Women Techmakers Barcelona"/>
+      <br />
+      <sub>
+        <b>Unit testing: from 2+2 to fetch - WTM Barcelona (Link soon!)</b>
+      </sub>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/mWiLhWtSYTI?t=14937">
+        <img src="https://user-images.githubusercontent.com/45037868/103942565-e65bfb80-5130-11eb-98b5-888e2db473b2.png" width="150px" alt="¿Quién soy yo para dar una charla? - Women4TT"/>
+        <br />
+        <sub>
+          <b>¿Quién soy yo para dar una charla? - Women4TT</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=cldd97CUn4g">
+        <img src="https://user-images.githubusercontent.com/45037868/103942115-2bcbf900-5130-11eb-84dc-db33267b6acd.png" width="150px" alt="Junior en la adolestreinta - Con Macarena Jimenez - TotoConf"/>
+        <br />
+        <sub>
+          <b>Junior en la adolestreinta - Con Macarena Jimenez - TotoConf</b>
+        </sub>
+      </a>
+      <br />
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://youtu.be/U7NTuOpBiAk?t=2435"><img src="https://img.youtube.com/vi/U7NTuOpBiAk/mqdefault.jpg" width="150px" alt="Lazy (and tricky) loading en Angular - OSW"/><br /><sub><b>Lazy (and tricky) loading en Angular - OSW</b></sub></a><br /></td>
-    <td align="center"><a href="https://youtu.be/dPpk4K_EKSE?t=6450"><img src="https://img.youtube.com/vi/dPpk4K_EKSE/mqdefault.jpg" width="150px" alt="Programar me ayuda en la depresión - XantarDev"/><br /><sub><b>Programar me ayuda en la depresión - XantarDev</b></sub></a><br /></td>
-    <td align="center"><a href="https://www.youtube.com/watch?v=szu5YDOtJ1M&t=4s"><img src="https://img.youtube.com/vi/szu5YDOtJ1M/mqdefault.jpg" width="150px" alt="Del 2+2 al fetch - AlmeríaJS"/><br /><sub><b>Del 2+2 al fetch - AlmeríaJS</b></sub></a><br /></td>
+    <td align="center">
+      <a href="https://youtu.be/U7NTuOpBiAk?t=2435">
+        <img src="https://img.youtube.com/vi/U7NTuOpBiAk/mqdefault.jpg" width="150px" alt="Lazy (and tricky) loading en Angular - OSW"/>
+        <br />
+        <sub>
+          <b>Lazy (and tricky) loading en Angular - OSW</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/dPpk4K_EKSE?t=6450">
+        <img src="https://img.youtube.com/vi/dPpk4K_EKSE/mqdefault.jpg" width="150px" alt="Programar me ayuda en la depresión - XantarDev"/>
+        <br />
+        <sub>
+          <b>Programar me ayuda en la depresión - XantarDev</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=szu5YDOtJ1M&t=4s">
+        <img src="https://img.youtube.com/vi/szu5YDOtJ1M/mqdefault.jpg" width="150px" alt="Del 2+2 al fetch - AlmeríaJS"/>
+        <br />
+        <sub>
+          <b>Del 2+2 al fetch - AlmeríaJS</b>
+        </sub>
+      </a>
+      <br /></td>
+  </tr>
+</table>
+
+## Panel 🧑🏻👨🏼‍🦳👨🏿
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/mWiLhWtSYTI?t=14937">
+        <img src="https://img.youtube.com/vi/cf43XVj3tBY/mqdefault.jpg" width="150px" alt="Remote Working - Women Who Code Dublin & Frontend Foxes Spain"/>
+        <br />
+        <sub>
+          <b>Remote Working - Women Who Code Dublin & Frontend Foxes Spain - English</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+        <img src="https://user-images.githubusercontent.com/45037868/104106573-42e92300-52b7-11eb-8221-1a5b8923de97.png" width="150px" alt="Front, frameworks y más allá - Codemotion online tech conference."/>
+        <br />
+        <sub>
+          <b>Front, frameworks y más allá - Codemotion online tech conference: Link soon!</b>
+        </sub>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=WIoN2x3_tp4">
+        <img src="https://user-images.githubusercontent.com/45037868/104106917-2bab3500-52b9-11eb-9fc8-3da9976e63c3.jpg" width="150px" alt="Un framework para dominarlos a todos - Codemotion Madrid"/>
+        <br />
+        <sub>
+          <b>Un framework para dominarlos a todos - Codemotion Madrid</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+  <tr>
+</table>
+
+## Interviews/podcast/collabs 🎙️
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=PFp18ugYgdE&t=1s">
+        <img src="https://img.youtube.com/vi/PFp18ugYgdE/mqdefault.jpg" width="150px" alt="Entrevista - OscarMartinDEV"/>
+        <br />
+        <sub>
+          <b>Entrevista - OscarMartinDEV</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=BFp6C4lnOuM&feature=youtu.be">
+        <img src="https://img.youtube.com/vi/BFp6C4lnOuM/mqdefault.jpg" width="150px" alt="HacktoberFest 2020: mi primera contribución al open source! - Codely"/>
+        <br />
+        <sub>
+          <b>HacktoberFest 2020: mi primera contribución al open source! - Codely</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://elpais.com/sociedad/2020/09/14/pienso_luego_actuo/1600069958_945079.html">
+        <img src="https://user-images.githubusercontent.com/45037868/104107498-d96c1300-52bc-11eb-8be4-91cc4a573c47.png" width="150px" alt="De madre soltera en paro a programadora - El País"/>
+        <br />
+        <sub>
+          <b>De madre soltera en paro a programadora - El País</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=GdmViiTMA3w">
+        <img src="https://img.youtube.com/vi/GdmViiTMA3w/mqdefault.jpg" width="150px" alt="Entrevista - CodeHouse academy"/>
+        <br />
+        <sub>
+          <b>Entrevista - CodeHouse academy</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="http://holamundopodcast.com/podcast/de-enfermera-a-front-end-developer/">
+        <img src="https://user-images.githubusercontent.com/45037868/104107371-ea685480-52bb-11eb-804a-16082c6c9f57.png" width="150px" alt="De Enfermera a Front End Developer - Hola Mundo Podcast"/>
+        <br />
+        <sub>
+          <b>De Enfermera a Front End Developer - Hola Mundo Podcast</b>
+        </sub>
+      </a>
+      <br />
+    </td>
   </tr>
 </table>
 
@@ -42,20 +186,6 @@ Everything I share is in Spanish, but I have two talks in English!
 * [Procesos de selección: agobio, estrés y aprendizaje](https://arijdb.medium.com/procesos-de-selecci%C3%B3n-agobio-estr%C3%A9s-y-aprendizaje-2c761bf36207)
 * [¿Quién soy yo para dar una charla?](https://arijdb.medium.com/qui%C3%A9n-soy-yo-para-dar-una-charla-4ac9bb7659f9)
 * [Cómo convertise en programadora después de los 30 - Revista Qmode](https://qmode.es/como-convertirse-en-programadora-despues-de-los-30)
-
-## Panel 🧑🏻👨🏼‍🦳👨🏿
-* [Remote Working - Women Who Code Dublin & Frontend Foxes Spain - English](https://www.youtube.com/watch?v=cf43XVj3tBY&feature=youtu.be)
-* Front, frameworks y más allá - Codemotion online tech conference: Link Soon!
-* [Un framework para dominarlos a todos - Codemotion Madrid](https://www.youtube.com/watch?v=WIoN2x3_tp4)
-
-
-## Interviews/podcast/collabs 🎙️
-* [Entrevista - OscarMartinDEV](https://www.youtube.com/watch?v=PFp18ugYgdE&t=1s)
-* [HacktoberFest 2020: mi primera contribución al open source! - Codely](https://www.youtube.com/watch?v=BFp6C4lnOuM&feature=youtu.be)
-* [De madre soltera en paro a experta programadora - El País](https://elpais.com/sociedad/2020/09/14/pienso_luego_actuo/1600069958_945079.html)
-* [CodeHouse academy](https://www.youtube.com/watch?v=GdmViiTMA3w)
-* [De Enfermera a Front End Developer - Hola Mundo Podcast](http://holamundopodcast.com/podcast/de-enfermera-a-front-end-developer/)
-
 
 ## Find out more about me and feel free to connect with me here:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Ari_Reinventada)](https://twitter.com/Ari_Reinventada)
