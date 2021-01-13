@@ -1,4 +1,4 @@
-<img width=90% src='https://user-images.githubusercontent.com/45037868/103943727-dfce8380-5132-11eb-82f6-605c8fd5ff31.png'/>
+<img width=90% src='https://user-images.githubusercontent.com/45037868/104423365-4cf07780-557e-11eb-88b4-346700ea63a5.png'/>
 
 # 🐣 Hi, I'm Ari 🐙
 [Spanish version](https://github.com/ArianeJDB/ArianeJDB/blob/main/README.md)
@@ -45,7 +45,7 @@ Everything I share is in Spanish, but I have two talks in English!
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=cldd97CUn4g">
-        <img src="https://user-images.githubusercontent.com/45037868/103942115-2bcbf900-5130-11eb-84dc-db33267b6acd.png" width="150px" alt="Junior en la adolestreinta - Con Macarena Jimenez - TotoConf"/>
+        <img src="https://user-images.githubusercontent.com/45037868/104422986-c2a81380-557d-11eb-86c6-3ef75dc68f28.png" width="150px" alt="Junior en la adolestreinta - Con Macarena Jimenez - TotoConf"/>
         <br />
         <sub>
           <b>Junior en la adolestreinta - Con Macarena Jimenez - TotoConf</b>
@@ -87,7 +87,7 @@ Everything I share is in Spanish, but I have two talks in English!
   </tr>
 </table>
 
-## Panel 🧑🏻👨🏼‍🦳👨🏿
+## Panel 👩🏾‍🦱👱🏼‍♀️🧑🏻👨🏼‍🦳👨🏿
 <table>
   <tr>
     <td align="center">
@@ -192,6 +192,9 @@ Everything I share is in Spanish, but I have two talks in English!
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=plastic&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ari_reinventada)](https://www.twitch.tv/ari_reinventada)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=plastic&logo=Medium&logoColor=white&link=https://arijdb.medium.com/)](https://arijdb.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arianejuradodebilbao/)](https://www.linkedin.com/in/arianejuradodebilbao/)
+
+## Donaciones
+#### If you like my talks, articles, posts or streamings, you can buy me a [🐣 here](https://www.buymeacoffee.com/ari.reinventada) This is optional, only if you want and if you can. If you like what I'm doing, you can share and join me in the talks or streaming and that's enough
 
 ### Hugs! =)
 
