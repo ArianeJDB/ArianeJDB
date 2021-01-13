@@ -1,6 +1,5 @@
-<img width=90% src='https://user-images.githubusercontent.com/45037868/103943727-dfce8380-5132-11eb-82f6-605c8fd5ff31.png'/>
+<img width=90% src='https://user-images.githubusercontent.com/45037868/104423365-4cf07780-557e-11eb-88b4-346700ea63a5.png'/>
 
-# 🐣 Hola, soy Ari 🐙
 [English version](https://github.com/ArianeJDB/ArianeJDB/blob/main/READMEen.md)
 
 Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y ahora programadora junior👩🏻‍💻 en Madrid. Mamá de Sebas 👩‍👦 y tuitera.
@@ -44,7 +43,7 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=cldd97CUn4g">
-        <img src="https://user-images.githubusercontent.com/45037868/103942115-2bcbf900-5130-11eb-84dc-db33267b6acd.png" width="150px" alt="Junior en la adolestreinta - Con Macarena Jimenez - TotoConf"/>
+        <img src="https://user-images.githubusercontent.com/45037868/104422986-c2a81380-557d-11eb-86c6-3ef75dc68f28.png" width="150px" alt="Junior en la adolestreinta - Con Macarena Jimenez - TotoConf"/>
         <br />
         <sub>
           <b>Junior en la adolestreinta - Con Macarena Jimenez - TotoConf</b>
@@ -86,7 +85,7 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
   </tr>
 </table>
 
-## Mesa redonda/panel 🧑🏻👨🏼‍🦳👨🏿
+## Mesa redonda/panel 👩🏾‍🦱👱🏼‍♀️🧑🏻👨🏼‍🦳👨🏿
 <table>
   <tr>
     <td align="center">
@@ -191,5 +190,8 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=plastic&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ari_reinventada)](https://www.twitch.tv/ari_reinventada)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=plastic&logo=Medium&logoColor=white&link=https://arijdb.medium.com/)](https://arijdb.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arianejuradodebilbao/)](https://www.linkedin.com/in/arianejuradodebilbao/)
+
+## Donaciones
+#### Si te gustan mis charlas, artículos o streamings, puedes donar comprandome un [🐣 aquí](https://www.buymeacoffee.com/ari.reinventada) Esto es opcional, solo si quieres y puedes. Con que compartas lo que hago y/o me acompañes en las charlas y streamings, es suficiente.
 
 ### Abrazos =)
