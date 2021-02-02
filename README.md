@@ -191,7 +191,7 @@ Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y a
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=plastic&logo=Medium&logoColor=white&link=https://arijdb.medium.com/)](https://arijdb.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arianejuradodebilbao/)](https://www.linkedin.com/in/arianejuradodebilbao/)
 
-## Donaciones
+## Me puedes apoyar comprándome un 🐣
 #### Si te gustan mis charlas, artículos o streamings, puedes donar comprandome un [🐣 aquí](https://www.buymeacoffee.com/ari.reinventada) Esto es opcional, solo si quieres y puedes. Con que compartas lo que hago y/o me acompañes en las charlas y streamings, es suficiente.
 
 ### Abrazos =)
