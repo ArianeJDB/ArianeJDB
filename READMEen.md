@@ -194,7 +194,7 @@ Everything I share is in Spanish, but I have two talks in English!
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arianejuradodebilbao/)](https://www.linkedin.com/in/arianejuradodebilbao/)
 
 ## You can support me! 
-#### If you like my talks, articles, posts or streamings, you can buy me a [🐣 here](https://www.buymeacoffee.com/ari.reinventada) This is optional, only if you want and if you can. If you like what I'm doing, you can share and join me in the talks or streaming and that's enough
+#### If you like my talks, articles, posts or streamings, you can buy me a [🐣 here](https://www.buymeacoffee.com/arireinventada) This is optional, only if you want and if you can. If you like what I'm doing, you can share and join me in the talks or streaming and that's enough
 
 ### Hugs! =)
 
