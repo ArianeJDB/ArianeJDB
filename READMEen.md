@@ -1,4 +1,4 @@
-<img width=90% src='https://user-images.githubusercontent.com/45037868/104423365-4cf07780-557e-11eb-88b4-346700ea63a5.png'/>
+<img width="90%" alt="banner-github" src="https://user-images.githubusercontent.com/45037868/107887892-9a5b5e00-6f09-11eb-8164-2c2badec0e80.png">
 
 # 🐣 Hi, I'm Ari 🐙
 [Spanish version](https://github.com/ArianeJDB/ArianeJDB/blob/main/README.md)
