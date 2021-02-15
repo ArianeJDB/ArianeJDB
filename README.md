@@ -1,4 +1,4 @@
-<img width="90%" alt="banner-github" src="https://user-images.githubusercontent.com/45037868/107887892-9a5b5e00-6f09-11eb-8164-2c2badec0e80.png">
+<img width="1252" alt="banner-github" src="https://user-images.githubusercontent.com/45037868/107915497-e2f43500-6f64-11eb-8d10-4048ea1ce832.png">
 
 [English version](https://github.com/ArianeJDB/ArianeJDB/blob/main/READMEen.md)
 
