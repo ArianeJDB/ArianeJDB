@@ -26,6 +26,16 @@ Everything I share is in Spanish, but I have two talks in English!
 <table>
   <tr>
     <td align="center">
+      <a href="https://youtu.be/NoWJShBovQo?t=156">
+        <img src="https://i.ytimg.com/vi/NoWJShBovQo/hq720.jpg" width="150px" alt="Cómo conseguir tu primer trabajo como programadora - Keep Coding"/>
+        <br />
+        <sub>
+          <b>Cómo conseguir tu primer trabajo como programadora - Keep Coding</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
       <img src="https://user-images.githubusercontent.com/45037868/103943388-499a5d80-5132-11eb-8f74-5c3af251836b.jpeg" width="150px" alt="Unit testing: from 2+2 to fetch - Women Techmakers Barcelona"/>
       <br />
       <sub>
@@ -91,6 +101,16 @@ Everything I share is in Spanish, but I have two talks in English!
 <table>
   <tr>
     <td align="center">
+      <a href="http://holamundopodcast.com/podcast/de-enfermera-a-front-end-developer/">
+        <img src="https://user-images.githubusercontent.com/45037868/111206851-3770eb80-85c9-11eb-9ba2-9565b323017a.jpeg" width="150px" alt="Día Internacional de la mujer y la Niña en la Ciencia con la mesa de diálogo #SheinspiresMe - Teamlabs"/>
+        <br />
+        <sub>
+          <b>Día Internacional de la mujer y la Niña en la Ciencia con la mesa de diálogo #SheinspiresMe - Teamlabs</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
       <a href="https://youtu.be/mWiLhWtSYTI?t=14937">
         <img src="https://img.youtube.com/vi/cf43XVj3tBY/mqdefault.jpg" width="150px" alt="Remote Working - Women Who Code Dublin & Frontend Foxes Spain"/>
         <br />
@@ -125,6 +145,16 @@ Everything I share is in Spanish, but I have two talks in English!
 ## Interviews/podcast/collabs 🎙️
 <table>
   <tr>
+    <td align="center">
+      <a href="https://www.danielprimo.io/blog/aprende-sin-complejos-con-ariane-jurado">
+        <img src="https://user-images.githubusercontent.com/45037868/111207989-810e0600-85ca-11eb-82b8-3ac1adaef6cf.jpg" width="150px" alt="Aprende sin complejos - Web Reactiva"/>
+        <br />
+        <sub>
+          <b>Aprende sin complejos - Web Reactiva</b>
+        </sub>
+      </a>
+      <br />
+    </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=PFp18ugYgdE&t=1s">
         <img src="https://img.youtube.com/vi/PFp18ugYgdE/mqdefault.jpg" width="150px" alt="Entrevista - OscarMartinDEV"/>
