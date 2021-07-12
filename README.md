@@ -331,7 +331,7 @@ Soy enfermera y psicopedagoga de Venezuela y ahora desarrolladora en Madrid. Mam
 ## Me puedes encontrar en
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Ari_Reinventada)](https://twitter.com/Ari_Reinventada)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=plastic&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ari_reinventada)](https://www.twitch.tv/ari_reinventada)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/ari_reinventada)](https://www.youtube.com/c/koolkanna)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/ari_reinventada)](https://www.youtube.com/c/ari_reinventada)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=plastic&logo=Medium&logoColor=white&link=https://arijdb.medium.com/)](https://arijdb.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arianejuradodebilbao/)](https://www.linkedin.com/in/arianejuradodebilbao/)
 
