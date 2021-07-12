@@ -3,8 +3,8 @@
 # 🐣 Hi, I'm Ari 🐙
 [Spanish version](https://github.com/ArianeJDB/ArianeJDB/blob/main/README.md)
 
-I am nurse 👩🏻‍⚕️ and educational psychologist 👩🏻‍🏫 from Venezuela and now I'm a junior developer👩🏻‍💻 based in Madrid. Mother of Sebas 👩‍👦 and tweeter. 
-Everything I share is in Spanish, but I have two talks in English!
+I am nurse and educational psychologist from Venezuela and now I'm a developer based in Madrid. Mother of Sebas, speaker, sometimes I do streamings and Youtube videos. 
+Everything I share is in Spanish, but I have some talks in English!
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -26,6 +26,35 @@ Everything I share is in Spanish, but I have two talks in English!
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.youtube.com/watch?v=LMCJ-QTIxUo">
+        <img src="https://user-images.githubusercontent.com/45037868/125210328-6a896a00-e29f-11eb-97cb-57e5ff9663fe.png" width="150px" alt="Introducción al testing en Front con Jest y Testing Library - Northem Quality Testing Community"/>
+        <br />
+        <sub>
+          <b>Introducción al testing en Front con Jest y Testing Library - Northem Quality Testing Community</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+        <img src="https://user-images.githubusercontent.com/45037868/125210397-da97f000-e29f-11eb-8bc8-ce9e7d03351b.png" width="150px" alt="Testing in front with Jest and Testing Library - JSWorld Conference USA"/>
+        <br />
+        <sub>
+          <b>Testing in front with Jest and Testing Library - JSWorld Conference USA</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=CezczF6clbk">
+        <img src="https://user-images.githubusercontent.com/45037868/125208972-0d3ceb00-e296-11eb-9e18-62e2b8b1246c.png" width="150px" alt="¿Quién soy yo para dar una charla?- Vue vixens Spain"/>
+        <br />
+        <sub>
+          <b>¿Quién soy yo para dar una charla?- Vue vixens Spain</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
       <a href="https://youtu.be/NoWJShBovQo?t=156">
         <img src="https://i.ytimg.com/vi/NoWJShBovQo/hq720.jpg" width="150px" alt="Cómo conseguir tu primer trabajo como programadora - Keep Coding"/>
         <br />
@@ -35,11 +64,13 @@ Everything I share is in Spanish, but I have two talks in English!
       </a>
       <br />
     </td>
+      </tr>
+      <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/45037868/103943388-499a5d80-5132-11eb-8f74-5c3af251836b.jpeg" width="150px" alt="Unit testing: from 2+2 to fetch - Women Techmakers Barcelona"/>
       <br />
       <sub>
-        <b>Unit testing: from 2+2 to fetch - WTM Barcelona (Link soon!)</b>
+        <b>Unit testing: from 2+2 to fetch - WTM Barcelona (Enlace pronto)</b>
       </sub>
       <br />
     </td>
@@ -63,8 +94,6 @@ Everything I share is in Spanish, but I have two talks in English!
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://youtu.be/U7NTuOpBiAk?t=2435">
         <img src="https://img.youtube.com/vi/U7NTuOpBiAk/mqdefault.jpg" width="150px" alt="Lazy (and tricky) loading en Angular - OSW"/>
@@ -75,6 +104,7 @@ Everything I share is in Spanish, but I have two talks in English!
       </a>
       <br />
     </td>
+  <tr>
     <td align="center">
       <a href="https://youtu.be/dPpk4K_EKSE?t=6450">
         <img src="https://img.youtube.com/vi/dPpk4K_EKSE/mqdefault.jpg" width="150px" alt="Programar me ayuda en la depresión - XantarDev"/>
@@ -86,14 +116,15 @@ Everything I share is in Spanish, but I have two talks in English!
       <br />
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=szu5YDOtJ1M&t=4s">
+      <a href="https://talks.codemotion.com/panel-online-todos-estamos-o-estaremos-e">
         <img src="https://img.youtube.com/vi/szu5YDOtJ1M/mqdefault.jpg" width="150px" alt="Del 2+2 al fetch - AlmeríaJS"/>
         <br />
         <sub>
           <b>Del 2+2 al fetch - AlmeríaJS</b>
         </sub>
       </a>
-      <br /></td>
+      <br />
+    </td>
   </tr>
 </table>
 
@@ -101,7 +132,37 @@ Everything I share is in Spanish, but I have two talks in English!
 <table>
   <tr>
     <td align="center">
-      <a href="http://holamundopodcast.com/podcast/de-enfermera-a-front-end-developer/">
+      <a href="https://www.youtube.com/watch?v=JdXlfh6ga-s">
+        <img src="https://user-images.githubusercontent.com/45037868/125209566-eda7c180-e299-11eb-84b4-e70e291fae1d.png" width="150px" alt="Todos estamos (o estaremos) en Twitch - Codemotion"/>
+        <br />
+        <sub>
+          <b>Todos estamos (o estaremos) en Twitch - Codemotion</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=JdXlfh6ga-s">
+        <img src="https://user-images.githubusercontent.com/45037868/125209400-d74d3600-e298-11eb-95f7-ce77b864db52.png" width="150px" alt="Nos vemos en Twitch - T3chfest days"/>
+        <br />
+        <sub>
+          <b>Nos vemos en Twitch - T3chfest days</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=vcFIIlF_bH4">
+        <img src="https://user-images.githubusercontent.com/45037868/125209060-9c4a0300-e296-11eb-96e9-db1c249450ba.png" width="150px" alt="Cambio de profesión - Devcast Codemotion"/>
+        <br />
+        <sub>
+          <b>Cambio de profesión - Devcast Codemotion</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://app.livestorm.co/teamlabs-1/mesa-de-dialogo-sheinspiresme/live?s=cf94e525-5199-4e7f-9c39-24c9bd947aa4#/chat">
         <img src="https://user-images.githubusercontent.com/45037868/111206851-3770eb80-85c9-11eb-9ba2-9565b323017a.jpeg" width="150px" alt="Día Internacional de la mujer y la Niña en la Ciencia con la mesa de diálogo #SheinspiresMe - Teamlabs"/>
         <br />
         <sub>
@@ -110,6 +171,7 @@ Everything I share is in Spanish, but I have two talks in English!
       </a>
       <br />
     </td>
+<tr>
     <td align="center">
       <a href="https://youtu.be/mWiLhWtSYTI?t=14937">
         <img src="https://img.youtube.com/vi/cf43XVj3tBY/mqdefault.jpg" width="150px" alt="Remote Working - Women Who Code Dublin & Frontend Foxes Spain"/>
@@ -124,7 +186,7 @@ Everything I share is in Spanish, but I have two talks in English!
         <img src="https://user-images.githubusercontent.com/45037868/104106573-42e92300-52b7-11eb-8221-1a5b8923de97.png" width="150px" alt="Front, frameworks y más allá - Codemotion online tech conference."/>
         <br />
         <sub>
-          <b>Front, frameworks y más allá - Codemotion online tech conference: Link soon!</b>
+          <b>Front, frameworks y más allá - Codemotion online tech conference: Enlace pronto!</b>
         </sub>
       <br />
     </td>
@@ -139,12 +201,74 @@ Everything I share is in Spanish, but I have two talks in English!
       <br />
     </td>
   </tr>
+  </tr>
   <tr>
 </table>
 
 ## Interviews/podcast/collabs 🎙️
 <table>
   <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=xAwMxntjfVs&t=126s">
+        <img src="https://user-images.githubusercontent.com/45037868/125210160-3feae180-e29e-11eb-9b20-1489f0c6b31e.png" width="150px" alt="Entrevista - That C# guy"/>
+        <br />
+        <sub>
+          <b>Entrevista - That C# guy</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=rSvNwMKOXa4&t=66s">
+        <img src="https://user-images.githubusercontent.com/45037868/125210062-8e4bb080-e29d-11eb-9a1a-7d13b1bcb029.png" width="150px" alt="Entrevista - Yesi Days"/>
+        <br />
+        <sub>
+          <b>Entrevista - Yesi Days</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=vTaqe01Ezm0">
+        <img src="https://user-images.githubusercontent.com/45037868/125209999-29905600-e29d-11eb-837c-a35099734990.png" width="150px" alt="Nunca es tarde para programar - MoureDev"/>
+        <br />
+        <sub>
+          <b>Nunca es tarde para programar - MoureDev</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.xataka.com/otros/empresa-busca-programador-polemica-cuando-pruebas-seleccion-camuflan-trabajo-gratuito">
+        <img src="https://user-images.githubusercontent.com/45037868/125209919-98b97a80-e29c-11eb-80bc-6dd6796a489e.png" width="150px" alt="Cuando las pruebas de selección camuflan trabajo gratuito - Xataka"/>
+        <br />
+        <sub>
+          <b>Cuando las pruebas de selección camuflan trabajo gratuito - Xataka</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <tr>
+   <td align="center">
+      <a href="https://www.cafecon.tech/1081172/8368980-aterizando-en-el-mundo-tech-junto-a-ariane-jurado">
+        <img src="https://user-images.githubusercontent.com/45037868/125209834-031deb00-e29c-11eb-9c98-2a6172e54aa2.png" width="150px" alt="Aterizando En El Mundo Tech - Café con tech"/>
+        <br />
+        <sub>
+          <b>Aterizando En El Mundo Tech - Café con tech</b>
+        </sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=6N6a1XM80Jw">
+        <img src="https://user-images.githubusercontent.com/45037868/125209699-f9e04e80-e29a-11eb-88d4-91683e7edbf7.png" width="150px" alt="Reconvirtiéndose a la programación - Autentia"/>
+        <br />
+        <sub>
+          <b>Reconvirtiéndose a la programación - Autentia</b>
+        </sub>
+      </a>
+      <br />
+    </td>
     <td align="center">
       <a href="https://www.danielprimo.io/blog/aprende-sin-complejos-con-ariane-jurado">
         <img src="https://user-images.githubusercontent.com/45037868/111207989-810e0600-85ca-11eb-82b8-3ac1adaef6cf.jpg" width="150px" alt="Aprende sin complejos - Web Reactiva"/>
@@ -165,6 +289,7 @@ Everything I share is in Spanish, but I have two talks in English!
       </a>
       <br />
     </td>
+  </tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=BFp6C4lnOuM&feature=youtu.be">
         <img src="https://img.youtube.com/vi/BFp6C4lnOuM/mqdefault.jpg" width="150px" alt="HacktoberFest 2020: mi primera contribución al open source! - Codely"/>
@@ -185,24 +310,12 @@ Everything I share is in Spanish, but I have two talks in English!
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=GdmViiTMA3w">
         <img src="https://img.youtube.com/vi/GdmViiTMA3w/mqdefault.jpg" width="150px" alt="Entrevista - CodeHouse academy"/>
         <br />
         <sub>
           <b>Entrevista - CodeHouse academy</b>
-        </sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="http://holamundopodcast.com/podcast/de-enfermera-a-front-end-developer/">
-        <img src="https://user-images.githubusercontent.com/45037868/104107371-ea685480-52bb-11eb-804a-16082c6c9f57.png" width="150px" alt="De Enfermera a Front End Developer - Hola Mundo Podcast"/>
-        <br />
-        <sub>
-          <b>De Enfermera a Front End Developer - Hola Mundo Podcast</b>
         </sub>
       </a>
       <br />
@@ -220,11 +333,12 @@ Everything I share is in Spanish, but I have two talks in English!
 ## Find out more about me and feel free to connect with me here:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Ari_Reinventada)](https://twitter.com/Ari_Reinventada)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=plastic&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ari_reinventada)](https://www.twitch.tv/ari_reinventada)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/ari_reinventada)](https://www.youtube.com/c/ari_reinventada)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=plastic&logo=Medium&logoColor=white&link=https://arijdb.medium.com/)](https://arijdb.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arianejuradodebilbao/)](https://www.linkedin.com/in/arianejuradodebilbao/)
 
 ## You can support me! 
-#### If you like my talks, articles, posts or streamings, you can buy me a [🐣 here](https://www.buymeacoffee.com/arireinventada) This is optional, only if you want and if you can. If you like what I'm doing, you can share and join me in the talks or streaming and that's enough
+#### If you like my talks, videos, articles, posts or streamings, you can support me by buying me a [🐣 here](https://www.buymeacoffee.com/arireinventada) This is optional, only if you want and if you can. If you like what I'm doing, you can share and join me in the talks, videos streaming and that's enough
 
 ### Hugs! =)
 
